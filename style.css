@@ -1,0 +1,27 @@
+body {
+
+    background-color: rgb(231, 157, 157);
+}
+h1 {
+    text-align: center;
+    height: 50px;
+    border: 5px solid #cccc;
+    padding-top: 20px;
+    margin-left: 1px;
+}
+
+.itens {
+       font-size: 25px;
+       font-style: italic;
+       color:black;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 10%;
+    margin-right: 15%;
+}
+.serviços {
+    padding: 20px;
+    background-color: rgb(209, 147, 147);
+}
